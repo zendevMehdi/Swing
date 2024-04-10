@@ -66,4 +66,4 @@ public class App {
 
 ## Screenshots
 
-![screenshots/gm.png](https://github.com/zendevMehdi/Notification/blob/ed10076a5251d67512846f8580b8da881214a0ae/screenshots/sample.png)
+![screenshots/sample.png](https://github.com/zendevMehdi/Notification/blob/ed10076a5251d67512846f8580b8da881214a0ae/screenshots/sample.png)
