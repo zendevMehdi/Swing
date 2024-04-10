@@ -66,4 +66,4 @@ public class App {
 
 ## Screenshots
 
-![screenshots/sample.png](https://github.com/zendevMehdi/Notification/blob/ed10076a5251d67512846f8580b8da881214a0ae/screenshots/sample.png)
+![screenshots/sample.png](https://github.com/zendevMehdi/Swing/blob/2ed33870443a463aefa328713630f5fbc1d197e6/screenshots/sample.png)
