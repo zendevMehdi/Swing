@@ -5,10 +5,7 @@ import javax.swing.*;
 public class JListUtils {
 
     public static <E> void clear(JList<E> list) {
-        DefaultListModel<E> model = (DefaultListModel<E>) list.getModel();
-        model.removeAllElements();
-
-        list.setModel(model);
+        list.setModel(new DefaultListModel<>());
     }
 
     public static <E> void add(JList<E> list, E item) {
